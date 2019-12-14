@@ -1,5 +1,5 @@
 # Numerical Methods - TI BASIC Library for Students
-TI BASIC library covering all standard numerical methods for root-finding, curve-fitting, interpolation, integration, differentiation, and 1st and 2nd Order ODEs.  Many of these programs contain multiple variations/methods inside of their menu options.  This library is written with the student in mind, and shows the steps that were used to arrive at the solution.  This is invaluable when checking work on numerical methods exams.
+TI BASIC library covering all standard numerical methods for root-finding, curve-fitting, interpolation, integration, differentiation, and 1st and 2nd Order ODEs.  Many of these programs contain multiple variations/methods inside of their menu options.  This library is written with the student in mind, and shows the steps that were used to arrive at the solution.  This is invaluable when checking work on numerical methods exams.  NUMER.8xg is a zip file of all the programs.  Simply download this file, and extract, to view the individual programs.
 
 # Programs:
 
