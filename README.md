@@ -18,3 +18,7 @@ ROMBERG - Romberg's Method - Given iterative approximations, will find a more ac
 SECANT - Secant Method - Root Finding Method\
 SEIDEL - Gauss-Seidel Iteration - Solves system of equations\
 TRAPZ - Trapezoid Method - Integration\
+
+
+Please feel free to contact me on my linkedin @ https://www.linkedin.com/in/joshua-koehler-b37841175/ with any questions or suggestions.
+I am open expanding the scope and usability of these programs if there is sufficient interest.
